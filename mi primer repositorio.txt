@@ -1,3 +1,1 @@
-Hola mundo!
-ya subi el archivo.txt
-12/7 practicando
+subido con exito!
